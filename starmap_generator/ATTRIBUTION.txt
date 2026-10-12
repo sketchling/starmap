@@ -1,0 +1,12 @@
+Star catalogue attribution
+---------------------------
+The file stars.csv shipped with this addon is a derived subset (brightest
+3000 stars: name, J2000 RA/Dec, V magnitude, B-V colour, distance) of the
+HYG Database v4.2, a compilation of the Hipparcos, Yale Bright Star, and
+Gliese catalogues.
+
+HYG Database v4.2 (c) Astronexus / David Nash, licensed CC BY-SA 4.0.
+Source: https://codeberg.org/astronexus/hyg and https://astronexus.com/projects/hyg
+
+If you redistribute this addon or its star data, retain this attribution and
+share alike under CC BY-SA 4.0 (for the data portion).
