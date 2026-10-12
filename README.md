@@ -46,3 +46,8 @@ for a clean sky.
 
 B-V → Teff (Ballesteros 2012) → sRGB blackbody (Tanner Helland) → linear.
 Uncheck "Colour by temperature" for white stars.
+
+## License
+
+Addon code: MIT (see LICENSE). Star catalogue (`stars.csv`): derived from
+the HYG Database v4.2, CC BY-SA 4.0 — see `starmap_generator/ATTRIBUTION.txt`.
